@@ -1,2 +1,2 @@
 ﻿# zikirmatik
-live demo: graceful-frame.surge.sh
+[live demo](graceful-frame.surge.sh).
